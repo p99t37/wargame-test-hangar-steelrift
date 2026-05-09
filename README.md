@@ -1,12 +1,4 @@
-# Steel Rift Hangar
 
-Army builder for [Steel Rift](https://www.steelrift.com), v1.5 rules.
-
-**Live:** https://type37.github.io/Steel-Rift-Hangar/
-
-Originally built by [Unstoppable Carl](https://github.com/unstoppablecarl) for Death Ray Designs LLC against the v1.0 rules. Rebuilt for v1.5 rules. MIT license preserved.
-
----
 
 ## What it does
 
