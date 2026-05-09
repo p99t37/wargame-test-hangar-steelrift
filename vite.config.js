@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react';
 // For a custom domain or root deploy, use base: '/'.
 export default defineConfig({
   plugins: [react()],
-  base: process.env.VITE_BASE ?? '/Steel-Rift-Hangar/',
+base: process.env.VITE_BASE ?? '/wargame-test-hangar-steelrift/',
 });
